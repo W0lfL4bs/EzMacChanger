@@ -5,3 +5,22 @@
 # EzMacChanger
 Change mac addres of wireless/cable interfase faster! 
 
+# Why we? 
+Our features:
++ Easy UI control
+
++ Custom UI
+
++ Bugless script
+
++ Support
+
++ Russian developers :D
+
++ Open SRC! 
+
+# Contacts:
+
++ Developer's VK: vk.com/wolwer
++ Developer's gmail (only for non-support questions): wolweryt@gmail.com 
++ COMPANY GMAIL (bug reports, support, etc.): W0lfL4bs@gmail.com
