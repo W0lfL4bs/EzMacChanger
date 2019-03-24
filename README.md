@@ -2,4 +2,4 @@
 
 # EzMacChanger
 Change mac addres of wireless/cable interfase faster! 
-![alt text](http://url/to/img.png)
+![alt text](https://github.com/W0lfL4bs/EzMacChanger/blob/master/EzMacChanger_Logo.png) 
